@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a595094b7ea5c47349d14207bdb701f9, type: 3}
+  m_Name: LoomVirtualCurrencies
+  m_EditorClassIdentifier: 
+  virtualCurrencies:
+  - currencyName: Crystals
+    currencyImage: {fileID: 21300000, guid: 622250c7d73c24755bddfd5b93e9b0a9, type: 3}
+  - currencyName: Gold
+    currencyImage: {fileID: 21300000, guid: b1abf835fc90f4d9d956e8e4c0f0ee69, type: 3}
+  - currencyName: Glory
+    currencyImage: {fileID: 21300000, guid: a1beab202fc174866acf0e8ca98370cc, type: 3}
+  - currencyName: Cups
+    currencyImage: {fileID: 21300000, guid: 2f2fd8b8aa3b64586ae24b2b60c7a695, type: 3}
+  - currencyName: Medals
+    currencyImage: {fileID: 21300000, guid: 20933d8e2dcda409ca221cf774ea4b14, type: 3}

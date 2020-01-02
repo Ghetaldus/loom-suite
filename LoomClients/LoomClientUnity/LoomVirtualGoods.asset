@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94e92811df65a4807b7be3388287abda, type: 3}
+  m_Name: LoomVirtualGoods
+  m_EditorClassIdentifier: 
+  virtualGoods:
+  - goodName: Sword
+    goodImage: {fileID: 21300000, guid: eafe316edabb248878c9e5a37bea3d7a, type: 3}
+  - goodName: Helm
+    goodImage: {fileID: 21300000, guid: 5ec3985ad6a88416a9ccde688be5d2d7, type: 3}
+  - goodName: Chest
+    goodImage: {fileID: 21300000, guid: 6e0d87cb3291b4fb2bf8b8a1768d95f2, type: 3}
+  - goodName: Scroll
+    goodImage: {fileID: 21300000, guid: 83a3d91786ce84159aad298d359c7aa9, type: 3}
+  - goodName: Shield
+    goodImage: {fileID: 21300000, guid: 28b459348566b4960b35e30cd4da2f7d, type: 3}

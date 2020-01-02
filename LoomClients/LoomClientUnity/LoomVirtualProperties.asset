@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7d9f6710b1c4082a258c6e78cd3d60, type: 3}
+  m_Name: LoomVirtualProperties
+  m_EditorClassIdentifier: 
+  virtualProperties:
+  - propertyName: House
+    propertyImage: {fileID: 21300000, guid: 0563cb85dedc540918a453f0a31be56d, type: 3}
+  - propertyName: Hut
+    propertyImage: {fileID: 21300000, guid: c77cc875fac784f5c92a79afdc2b4eaf, type: 3}
+  - propertyName: Castle
+    propertyImage: {fileID: 21300000, guid: 6be2f7944e93146758f09d96b497a1cd, type: 3}
+  - propertyName: Mine
+    propertyImage: {fileID: 21300000, guid: 5d7bae273343c463db6847d5beb01643, type: 3}
+  - propertyName: Tower
+    propertyImage: {fileID: 21300000, guid: fb421acb892df482aba2826a6caa4655, type: 3}
